@@ -1,20 +1,22 @@
-[
-  {
-    "id": 1,
-    "nom": "chanigui",
-    "prénom": "fatima-zahra",
-    "genre": "Femme",
-    "dateNaissanse": "juillet 28, 1998",
-    "email": "fz.chanigui@gmail.com",
-    "password": "123"
-  },
-  {
-    "id": 2,
-    "nom": "chanigui",
-    "prénom": "habib",
-    "genre": "Homme",
-    "dateNaissanse": "juillet 27, 2003",
-    "email": "habimed@gmail.com",
-    "password": "456"
-  }
-]
+{
+  "utilisateurs" : [
+    {
+      "id": 1,
+      "nom": "chanigui",
+      "prénom": "fatima-zahra",
+      "genre": "Femme",
+      "dateNaissanse": "juillet 28, 1998",
+      "email": "fz.chanigui@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "nom": "chanigui",
+      "prénom": "habib",
+      "genre": "Homme",
+      "dateNaissanse": "juillet 27, 2003",
+      "email": "habimed@gmail.com",
+      "password": "456"
+    }
+  ]
+}
