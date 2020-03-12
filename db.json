@@ -7,7 +7,7 @@
       "genre": "Femme",
       "dateNaissance": "juillet 28, 1998",
       "email": "fz.chanigui@gmail.com",
-      "password": "123"
+      "motDePasse": "123"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "genre": "Homme",
       "dateNaissance": "juillet 27, 2003",
       "email": "habimed@gmail.com",
-      "password": "456"
+      "motDePasse": "456"
     }
   ]
 }
